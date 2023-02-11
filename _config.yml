@@ -4,3 +4,5 @@ plugins:
 
 title: [PandaUpanda. Мысли вслух]
 description: [Заметки обо всем]
+
+markdown: kramdown
