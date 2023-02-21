@@ -1,4 +1,4 @@
-# 1 pandaUpanda.github.io
+# pandaUpanda.github.io
 
 Сайт о заметках и компах
 
