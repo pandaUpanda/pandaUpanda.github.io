@@ -6,9 +6,9 @@
 [О базах знаний]({% link notes/aboutBZ.md %})
 
 ## Про Linux
-[Как выбрать линукс](({% link linux/chooselinux.md %}))
-[Самые распространенные дистрибутивы](({% link linux/distr.md %}))
-[Как попробовать линукс](({% link linux/trylinux.md %}))
+- [Как выбрать линукс]({% link linux/chooselinux.md %})
+- [Самые распространенные дистрибутивы]({% link linux/distr.md %})
+- [Как попробовать линукс]({% link linux/trylinux.md %})
 
 ## Программирование
 [Как сгенерировать ssh ключ]({% link programming/ssh.md %})
