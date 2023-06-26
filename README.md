@@ -3,8 +3,8 @@
 Сайт о заметках и компах
 
 ## Про заметки
-[О базах знаний]({% link notes/aboutBZ.md %})
-[Графические инструменты и Obsidian]({% link notes/exc.md %})
+- [О базах знаний]({% link notes/aboutBZ.md %})
+- [Графические инструменты и Obsidian]({% link notes/exc.md %})
 
 
 ## Про Linux
