@@ -11,6 +11,9 @@
 
 ## Книги:
 ### Эффективное чтение
+
+![](https://www.mann-ivanov-ferber.ru/assets/images/covers/40/31640/1.50x-thumb.png?width=300&height=400)
+
 **Книга**: Агамалиев Рустам, "Эффективное чтение"
 
 **Роль**: литературный критик и ловец ошибок и неточностей
@@ -21,6 +24,9 @@
 
 
 ### Визуализация данных с помощью Python и JavaScript. Анализ и преобразование данных
+
+![](https://content.img-gorod.ru/pim/products/images/4a/e4/019beed0-dc23-7e5c-aa1e-778491fb4ae4.jpg?width=300&height=400)
+
 **Оригинал**: Data Visualization with Python and JavaScript: Scrape, Clean, Explore, and Transform Your Data (by Kyran Dale) 2ed
 
 **Книга**: Киран Дейл, Визуализация данных с помощью Python и JavaScript. Анализ и преобразование данных
@@ -33,6 +39,9 @@
 
 
 ### Как освоить современный Linux
+
+![](https://www.oreilly.com/covers/urn:orm:book:9781098108939/300w/?width=300&height=400)
+
 **Оригинал**: Learning Modern Linux: A Handbook for the Cloud Native Practitioner (by Michael Hausenblas)
 
 **Книга**: Хаузенблас М., Как освоить современный Linux. Полный справочник: от новичка до профессионала
