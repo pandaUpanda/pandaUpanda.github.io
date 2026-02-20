@@ -10,11 +10,38 @@
 - Рассказывала о своей работе и о своем пути в ИТ.
 
 ## Книги:
-1. Немножечко приложила руку к выпуску книги Рустама Агамалиева "Эффективное чтение". Помогала вылавливать мелкие ошибки и неточности.
-[Эффективное чтение (Рустам Агамалиев) — купить в МИФе](https://www.mann-ivanov-ferber.ru/catalog/product/kniga-pro-obrabotku-informacii/)
-2. Техническая редакутра перевода на русский язык Data Visualization with Python and JavaScript: Scrape, Clean, Explore, and Transform Your Data (by Kyran Dale) 2ed.
-ISBN русккого издания 978-601-12-4680-4
-3. Техническая редакутра перевода на русский язык Learning Modern Linux: A Handbook for the Cloud Native Practitioner (by Michael Hausenblas)
-ISBN русккого издания 978-601-12-4679-8
+### Эффективное чтение
+**Книга**: Агамалиев Рустам, "Эффективное чтение"
+
+**Роль**: литературный критик и ловец ошибок и неточностей
+
+**ISBN**: 978-5-00250-146-5
+
+**Издательство**: МИФ [Эффективное чтение (Рустам Агамалиев) — купить в МИФе](https://www.mann-ivanov-ferber.ru/catalog/product/kniga-pro-obrabotku-informacii/) 
+
+
+### Визуализация данных с помощью Python и JavaScript. Анализ и преобразование данных
+**Оригинал**: Data Visualization with Python and JavaScript: Scrape, Clean, Explore, and Transform Your Data (by Kyran Dale) 2ed
+
+**Книга**: Киран Дейл, Визуализация данных с помощью Python и JavaScript. Анализ и преобразование данных
+
+**Роль**: Научная редактура
+
+**ISBN**: 978-601-12-4680-4
+
+Активно взаимодействовала с переводчиком и литературным редактором. Отличный опыт, который позволил упростить нам работу над книгой.
+
+
+### Как освоить современный Linux
+**Оригинал**: Learning Modern Linux: A Handbook for the Cloud Native Practitioner (by Michael Hausenblas)
+
+**Книга**: Хаузенблас М., Как освоить современный Linux. Полный справочник: от новичка до профессионала
+
+**Роль**: Научная редактура
+
+**ISBN**: 978-601-12-4679-8	
+
+
+
 
 
