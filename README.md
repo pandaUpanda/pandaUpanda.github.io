@@ -5,6 +5,7 @@
 - [О базах знаний]({% link notes/aboutBZ.md %})
 - [Графические инструменты и Obsidian]({% link notes/exc.md %})
 - [Всякое публичное, в чем я участвую]({%link notes/public.md %})
+- [Карта компетенций редактора]({%link notes/redactor.md %})
 
 
 ### Про Linux
